@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/count/isadfrn/blue-c010-m04-fls-sneslib-client?style=flat-square" />
-  <img src="https://img.shields.io/github/repo-size/isadfrn/blue-c010-m04-fls-sneslib-client?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/isadfrn/blue-c010-m04-fls-sneslib-client?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/count/isa-blue/c010-m04-fls-sneslib-client?style=flat-square" />
+  <img src="https://img.shields.io/github/repo-size/isa-blue/c010-m04-fls-sneslib-client?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/isa-blue/c010-m04-fls-sneslib-client?style=flat-square" />
 </p>
 
 <br />
@@ -18,7 +18,7 @@
 - [React Bootstrap](https://react-bootstrap.github.io/)
 
 ## Project
-SNESLib Client It's a Front-end for [Super Nintendo games library API](https://github.com/isadfrn/blue-c010-m04-fls-sneslib-api). This is a [Blue EdTech](https://blueedtech.com.br/) project developed with my students.
+SNESLib Client It's a Front-end for [Super Nintendo games library API](https://github.com/isa-blue/c010-m04-fls-sneslib-client).
 
 ## Status
 In progress 🚧
